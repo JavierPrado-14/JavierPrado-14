@@ -1,4 +1,4 @@
-![Javier Prado Banner](https://github.com/JavierPrado-14/JavierPrado-14/blob/main/assets/Javier%20Prado%20Banner%20GitHub.png)
+![Javier Prado Banner](https://github.com/JavierPrado-14/JavierPrado-14/blob/main/assets/JavierPradoBanner.png)
 
 <img alt="Saludo Guatemalteco" src="https://raw.githubusercontent.com/JavierPrado-14/JavierPrado-14/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Javier Prado</h2>
 
