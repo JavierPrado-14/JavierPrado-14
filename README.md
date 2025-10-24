@@ -46,6 +46,15 @@
 
 <hr width="36%" >
 
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/JavierPrado-14/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=JavierPrado-14&row=2&column=6&margin-w=20&margin-h=20&theme=darkhub" alt="GitHub Trophies">
+  </a>
+</p>
+<br>
+
 <h3>Mis Estadísticas de GitHub</h3>
 <br>
 
