@@ -1,4 +1,13 @@
-![Javier Prado Banner](https://github.com/JavierPrado-14/JavierPrado-14/blob/main/assets/JavierPradoBanner.png)
+<div align="center">
+  <img src="https://github.com/JavierPrado-14/JavierPrado-14/blob/main/assets/JavierPradoBanner.png" alt="Javier Prado Banner" width="100%"/>
+</div>
+
+<!-- Banner temporal mientras se crea el personalizado -->
+<div align="center">
+  <h1>🚀 JAVIER PRADO</h1>
+  <h3>🇬🇹 DESARROLLADOR WEB FULL-STACK | GUATEMALA</h3>
+  <p><strong>Apasionado por la tecnología, código y fútbol ⚽</strong></p>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
