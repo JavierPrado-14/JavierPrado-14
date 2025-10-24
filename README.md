@@ -8,31 +8,31 @@
 <br>
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
-<img src="./icons/Apple-Dark.svg" width="48">
-<img src="./icons/Arduino.svg" width="48">
-<img src="./icons/AutoCAD-Dark.svg" width="48">
-<img src="./icons/AWS-Dark.svg" width="48">
-<img src="./icons/Azure-Dark.svg" width="48">
-<img src="./icons/C.svg" width="48">
-<img src="./icons/CS.svg" width="48">
-<img src="./icons/Crystal-Dark.svg" width="48">
-<img src="./icons/CSS.svg" width="48">
-<img src="./icons/Cypress-Dark.svg" width="48">
-<img src="./icons/Debian-Dark.svg" width="48">
-<img src="./icons/Docker.svg" width="48">
-<img src="./icons/ExpressJS-Dark.svg" width="48">
-<img src="./icons/Firebase-Dark.svg" width="48">
-<img src="./icons/Gmail-Dark.svg" width="48">
-<img src="./icons/HTML.svg" width="48">
-<img src="./icons/Illustrator.svg" width="48">
-<img src="./icons/Java-Dark.svg" width="48">
-<img src="./icons/JavaScript.svg" width="48">
-<img src="./icons/Kali-Dark.svg" width="48">
-<img src="./icons/PostgreSQL-Dark.svg" width="48">
-<img src="./icons/Powershell-Dark.svg" width="48">
-<img src="./icons/Redis-Dark.svg" width="48">
-<img src="./icons/VisualStudio-Dark.svg" width="48">
-<img src="./icons/Windows-Dark.svg" width="48">
+<img src="https://img.shields.io/badge/apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Apple">
+<img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/autocad-%23E11F1F.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD">
+<img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white" alt="Crystal">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress">
+<img src="https://img.shields.io/badge/debian-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali">
+<img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/powershell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/visual%20studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
 </p><br>
 
 <hr width="36%" >
