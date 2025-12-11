@@ -41,17 +41,17 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=JavierPrado-14&show_icons=true&theme=radical&hide_border=true" alt="JavierPrado-14's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JavierPrado-14&show_icons=true&theme=radical&hide_border=false" alt="JavierPrado-14's github stats" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPrado-14&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPrado-14&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierPrado-14&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=JavierPrado-14&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
