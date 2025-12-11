@@ -37,22 +37,22 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## � Enfoque Profesional
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=JavierPrado-14&show_icons=true&theme=radical&hide_border=false" alt="JavierPrado-14's github stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPrado-14&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-  </p>
-</div>
+Me especializo en construir software de alto impacto con un enfoque en la calidad y la experiencia del usuario.
 
-<br/>
+- 🧩 **Clean Code**: Escribir código legible, mantenible y escalable es mi prioridad.
+- ⚡ **Rendimiento**: Optimización continua para asegurar aplicaciones rápidas y fluidas.
+- 🛡️ **Seguridad**: Implementación de mejores prácticas de seguridad desde el diseño.
+- 🤝 **Colaboración**: Creo en el poder del trabajo en equipo y la comunicación clara.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JavierPrado-14&theme=radical&hide_border=false" alt="GitHub Streak" />
-</div>
+### 📚 Aprendizaje Continuo
+
+La tecnología nunca se detiene, y yo tampoco. Actualmente estoy explorando:
+
+- **Arquitecturas Cloud-Native** (AWS, Azure)
+- **DevOps & CI/CD Pipelines**
+- **Diseño de Sistemas Distribuidos**
 
 ---
 
