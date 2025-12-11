@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dVDd749xX4VvW/giphy.gif" width="400" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation"/>
 </div>
 
 <br/>
@@ -18,21 +18,21 @@
 - 🌱 Aprendiendo profundamente sobre **Inteligencia Artificial y Machine Learning**.
 - 👯 Busco colaborar en proyectos de código abierto.
 - 💬 Pregúntame sobre **Python, JavaScript, y Arquitectura de Software**.
-- 📫 Cómo contactarme: [javier.prado@example.com](mailto:javier.prado@example.com)
+- 📫 Cómo contactarme: [javierodarp@gmail.com](mailto:javierodarp@gmail.com)
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183935444-27fa82a3-f621-4390-8d32-f70001385cfd.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML5" title="HTML5"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75efa57f-13fe-4f09-ad52-9d5f0e1f43cf.png" alt="CSS3" title="CSS3"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-d71d13a1-9424-45f6-8a93-a55420e13717.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
 ---
@@ -40,9 +40,12 @@
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierPrado-14&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="JavierPrado-14's github stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPrado-14&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=JavierPrado-14&show_icons=true&theme=radical&hide_border=true" alt="JavierPrado-14's github stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierPrado-14&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </p>
 </div>
 
 <br/>
@@ -57,7 +60,7 @@
   <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:javier.prado@example.com">
+  <a href="mailto:javierodarp@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
